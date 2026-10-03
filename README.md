@@ -56,3 +56,4 @@ or double-click:
 The barcode itself does not automatically contain the medicine's complete database record. The application must have a medicine record associated with that barcode, unless an external medicine database/API is integrated.
 
 This application is for inventory and expiry tracking, not medical diagnosis or treatment recommendations.
+My Medicine Tracker Application
